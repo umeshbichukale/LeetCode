@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode problems which I solved will be are available in this Repository.
+LeetCode problems which I solved are available in this Repository.
